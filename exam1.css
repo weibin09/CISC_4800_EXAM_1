@@ -1,0 +1,60 @@
+table, td, th {
+    border: 1px solid black;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th {
+    text-align: left;
+  }
+  body{
+    width: 1000px;
+  }
+  
+
+  img{
+    margin: 0 auto;
+    position: relative;
+    margin-left: 400px;
+  }
+
+  h2{
+    width: 100%;
+    text-align: center;
+    margin-left: 500px;
+  }
+
+  p{
+    text-align: center;
+  }
+
+ .box1 li{
+   margin-left: 250px;
+ }
+
+ .box2 li{
+  margin-left: 250px;
+ }
+
+ .p2{
+   margin-left: -230px;
+ }
+
+ .p3{
+    margin-left: -200px;
+ }
+
+ .table{
+   margin-left: 270px;
+ }
+
+ .addesss p{
+   margin-left: 150px;
+ }
+
+.table{
+  border-style:  solid;
+}
